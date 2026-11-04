@@ -1,0 +1,10 @@
+{
+  "name": "kaamsetu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KaamSetu: hire and find local workers",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "pg": "^8.13.0" }
+}
